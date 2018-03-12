@@ -1,1 +1,2 @@
-# Sentimental-analysis-for-Tweeter-
+# aabir-twitter-project
+Twitter Sentiment Analysis using R
